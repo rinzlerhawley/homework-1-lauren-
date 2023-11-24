@@ -1,0 +1,86 @@
+<mxfile host="app.diagrams.net" modified="2023-11-24T16:23:24.387Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="_G7ecwrEtq0Q8f8rA4U9" version="22.1.3" type="device">
+  <diagram name="Page-1" id="NqZJXncqEjelA9mn7xuS">
+    <mxGraphModel dx="912" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="opAYBSn_ZjVEKt7e54LM-1" value="PlaySongs " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="opAYBSn_ZjVEKt7e54LM-2" value="PlaySongsMusic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="opAYBSn_ZjVEKt7e54LM-3" value="PlaySongsLyrics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="opAYBSn_ZjVEKt7e54LM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="opAYBSn_ZjVEKt7e54LM-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="270" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="340" y="270" />
+              <mxPoint x="340" y="280" />
+              <mxPoint x="350" y="280" />
+              <mxPoint x="350" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="opAYBSn_ZjVEKt7e54LM-4" value="sing_lyrics()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="opAYBSn_ZjVEKt7e54LM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="opAYBSn_ZjVEKt7e54LM-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="279.9999999999999" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="540" y="281" />
+              <mxPoint x="540" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="opAYBSn_ZjVEKt7e54LM-5" value="play_guitar() &amp;nbsp; sing_lyrics()&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="opAYBSn_ZjVEKt7e54LM-6" value="sing_lyrics()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="opAYBSn_ZjVEKt7e54LM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="opAYBSn_ZjVEKt7e54LM-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="279.9999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="opAYBSn_ZjVEKt7e54LM-8" value="PlayInstrumentalSong" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="opAYBSn_ZjVEKt7e54LM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="opAYBSn_ZjVEKt7e54LM-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="279.9999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="opAYBSn_ZjVEKt7e54LM-9" value=" PlayRockSong" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="opAYBSn_ZjVEKt7e54LM-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="280" as="sourcePoint" />
+            <mxPoint x="660" y="280" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="opAYBSn_ZjVEKt7e54LM-19" value="play_guitar()     &lt;br&gt;play_drums()  " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="opAYBSn_ZjVEKt7e54LM-20" value="play_guitar()  &lt;br&gt;sing_lyrics()&lt;br&gt;play_drums()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="opAYBSn_ZjVEKt7e54LM-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="320" as="sourcePoint" />
+            <mxPoint x="680" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
